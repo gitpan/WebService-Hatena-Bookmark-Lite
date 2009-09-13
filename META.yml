@@ -22,7 +22,9 @@ no_index:
 requires:
   Class::Accessor::Fast: 0.33
   Config::Pit: 0.03
+  DateTime: 0.50
+  Digest::SHA1: 2.12
   XML::Atom: 0.35
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.02
+version: 0.03
